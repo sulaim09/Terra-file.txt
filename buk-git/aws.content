@@ -1,0 +1,108 @@
+AWS
+(AMAZON WEB SERVICES)
+
+
+Introduction of AWS
+1. Introduction of Cloud.
+2. Types of Cloud
+3. AWS Cloud Architecture.
+4. IAAS/PAAS/SAAS
+
+Identity & Access Management
+1. I AM Essentials
+2. IAM Policies
+3. IAM Users
+4. IAM Groups
+5. IAM Roles
+6. Multi-Factor Authentication.
+
+AWS Interfaces
+1. Interactive with AWS
+2. Console Tour and Navigation: Setting and Account Management
+
+Compute Service
+1. Elastic Compute Cloud(EC2)
+2. EC2 Essentials
+3. EC2 AMIs and Virtualization
+4. EC2 instance types
+5. Public, Private and Elastic IP Addresses
+6. EC2 Bootstrapping, User Data and Metadata
+7. Security Groups
+8. Key Pairs and Connecting to an EC2 via SSH
+9. EBS snapshots
+10. EC2 Placement Groups
+11. Elastic File System(EFS)
+12. Practical: Provisioning EC2 instance; EC2 Backup Solutions with AMIs and Snapshots
+13. Practical: Accessing instances User Data and Meta Data
+
+AWS Management Tools
+1. Introduction of Cloud Watch.
+2. Introduction of Cloud Trail.
+3. Simple Notification Service.
+4. Practical: Configuring Cloud Watch Alarms, Cloud Trail Event log and SNS Topic.
+
+AWS Networking
+1. Introduction of Virtual Private Cloud(VPC).
+2. Configuring VPC.
+3. Subnets
+4. Route Tables
+5. Internet Gateways
+6. Nat Gateways
+7. Network ACLs
+8. VPC peering.
+9. Practical: Configuring the VPC from scratch.
+10. Practical: Creating Public and Private Network.
+
+AWS High Availability
+1. Introduction to Elastic Load Balancer.
+2. Types of Load Balancers.
+3. Target Groups.
+4. Auto Scaling.
+5. Practical: Configuring Application Load Balancer with Auto Scaling.
+
+Storage Services
+1. Simple Storage Service
+2. S3 Essentials
+3. S3 Essentials
+4. S3 Permissions
+5. S3 Storage Classes
+6. Object Versioning
+7. S3 Lifecycle Policies
+8. S3 Events
+9. Website Hosting with S3
+10. Cross-Origin Resource Sharing
+11. Practical: Using S3 for Static Web Hosting
+12. Practical: Configuring Backup with S3
+
+Content Delivery and Networking
+1. Introduction of Route53
+2. Route53 Essentials
+3. Introduction of CloudFront
+4. Practical: Configuring Route53 and Hosted Zones
+5. Practical: Configuring a CloudFront Distribution
+
+AWS Interfaces(The AWS CLI)
+1. Interacting with AWS.
+2. Install & Configure the AWS CLI
+
+Database Services
+1. Introduction of RDS.
+2. RDS Essentials
+3. Practical: Create and Configure RDS Database
+
+DynamoDB
+1. Introduction of DynamoDB Essentials
+
+ElasticCache
+1. Introduction of ElasticCache
+
+Deployment Services
+1. Introduction of Cloud Formation
+2. Cloud Formation Essential
+3. Practical: Creating an S3 bucket with Cloud Formation.
+
+Elastic Beanstalk
+1. Introduction of Elastic Beanstalk.
+2. Elastic Beanstalk Essentials.
+3. Deploying a Simple Web Application with Elastic Beanstalk.
+ 
